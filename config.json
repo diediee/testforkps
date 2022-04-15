@@ -6,10 +6,10 @@
 		"admob_interstitial_unit_id": "ca-app-pub-8619549059649385/4758046628"
 	},
   "updateData": {
-    "updateTitle": "",
-    "updateMessage": "",
-    "updateLink": "",
-    "playStore": "",
+    "updateTitle": "New Update Found!",
+    "updateMessage": "New Update Found!Message",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+    "playStore": "https://play.google.com/store/apps/details?id=com.facebook.katana",
     "latestVersion": 5
   }
 }
