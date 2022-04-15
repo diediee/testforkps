@@ -1,0 +1,15 @@
+{
+
+  "ads": {
+		"admob_app_id": "ca-app-pub-8619549059649385~6586967767",
+		"admob_banner_unit_id": "ca-app-pub-8619549059649385/7734977025",
+		"admob_interstitial_unit_id": "ca-app-pub-8619549059649385/4758046628"
+	},
+  "updateData": {
+    "updateTitle": "",
+    "updateMessage": "",
+    "updateLink": "",
+    "playStore": "",
+    "latestVersion": 5
+  }
+}
