@@ -6,11 +6,16 @@
 		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
 	  	"ad_type": 1
 	},
+	
   "updateData": {
     "updateTitle": "New Update Found!",
     "updateMessage": "New Update Found!Message",
     "updateLink": "https://play.google.com/store/apps/details?id=com.facebook.katana",
     "playStore": "https://play.google.com/store/apps/details?id=com.facebook.katana",
     "latestVersion": 5
-  }
+  },
+	"messageBox": {
+		"message_body": "Blha Hlah LaBarGyar",
+		"message_image": "https://lh3.googleusercontent.com/-jEr9Ul_1sXs/Ylhivs5yqdI/AAAAAAAAF7c/dKz_0n10rTYWofXL42McVtdlCVghfVeuwCNcBGAsYHQ/s1600/1649959380-picsay.png"
+	}
 }
