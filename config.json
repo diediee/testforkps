@@ -12,9 +12,10 @@
     "updateMessage": "New Update Found!Message",
     "updateLink": "https://play.google.com/store/apps/details?id=com.facebook.katana",
     "playStore": "https://play.google.com/store/apps/details?id=com.facebook.katana",
-    "latestVersion": 5
+    "latestVersion": 0
   },
 	"messageBox": {
+		"show_message" 1,
 		"message_body": "Blha Hlah LaBarGyar",
 		"message_image": "https://lh3.googleusercontent.com/-jEr9Ul_1sXs/Ylhivs5yqdI/AAAAAAAAF7c/dKz_0n10rTYWofXL42McVtdlCVghfVeuwCNcBGAsYHQ/s1600/1649959380-picsay.png"
 	}
