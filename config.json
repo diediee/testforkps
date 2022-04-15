@@ -18,5 +18,10 @@
 		"show_message": 1,
 		"message_body": "Blha Hlah LaBarGyar",
 		"message_image": "https://lh3.googleusercontent.com/-jEr9Ul_1sXs/Ylhivs5yqdI/AAAAAAAAF7c/dKz_0n10rTYWofXL42McVtdlCVghfVeuwCNcBGAsYHQ/s1600/1649959380-picsay.png"
-	}
+	},
+	"lockBox": {
+	"cover" : "https://nharbuuimages.files.wordpress.com/2021/10/wepass.png",
+	"question" : "",
+	"answer" : "1111"
+}
 }
